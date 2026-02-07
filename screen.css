@@ -18,6 +18,8 @@ nav {
 
 nav p {
     font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 2px;
 }
 
 h1 {
@@ -34,6 +36,7 @@ h1 {
 
 h2 {
     font-size: 24px;
+    color: #577399;
 }
 
 p {
@@ -58,6 +61,6 @@ p {
 
 #about .content {
   max-width: 600px;
-  padding-left: 24px;
+  padding-left: 48px;
 }
 
