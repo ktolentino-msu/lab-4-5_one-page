@@ -9,4 +9,11 @@ body {
   font-optical-sizing: auto;
   font-weight: <weight>;
   font-style: normal;
+  color: #495867
 }
+
+.emphasis {
+    color:#FE5F55;
+    text-decoration: underline;
+}
+
