@@ -3,7 +3,7 @@ body {
     background-color: #F7F7FF;
   font-family: "DM Sans", sans-serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-weight: 500;
   font-style: normal;
   color: #495867;
   margin: 0;
@@ -38,16 +38,6 @@ p {
     margin: 0;
 }
 
-.about {
-    display: flex;
-    align-items: center;
-    width: 80%;
-    max-width: 800px;
-}
-
-img.about {
-    float: left;
-}
 
 .emphasis {
     color:#FE5F55;
