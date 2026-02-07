@@ -11,9 +11,13 @@ body {
 
 nav {
     background-color: #FFFDFD;
-    border-bottom: #BDD5EA 1px;
+    border-bottom: 1px solid #BDD5EA;
     margin: 0 auto;
     padding: 24px;
+}
+
+nav p {
+    font-weight: 800;
 }
 
 h1 {
@@ -42,5 +46,18 @@ p {
 .emphasis {
     color:#FE5F55;
     text-decoration: underline;
+}
+
+#about {
+  display: flex;
+  align-items: flex-start;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 96px 24px;
+}
+
+#about .content {
+  max-width: 600px;
+  padding-left: 24px;
 }
 
