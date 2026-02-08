@@ -9,23 +9,29 @@ body {
   margin: 0;
 }
 
-nav {
+header {
     background-color: #FFFDFD;
     border-bottom: 1px solid #BDD5EA;
     margin: 0 auto;
     padding: 24px;
 }
 
-nav p {
+h1 {
+    font-size: 16px;
     font-weight: 800;
     text-transform: uppercase;
     letter-spacing: 2px;
 }
 
-h1 {
+.intro p {
     font-size: 54px;
     text-align: center;
     width: 80%;
+}
+
+.emphasis {
+    color:#FE5F55;
+    text-decoration: underline;
 }
 
 .intro {
@@ -40,15 +46,9 @@ h2 {
 }
 
 p {
-    font-size: 16px;
+    font-size: 18px;
     color: #495867;
     margin: 0;
-}
-
-
-.emphasis {
-    color:#FE5F55;
-    text-decoration: underline;
 }
 
 #about {
